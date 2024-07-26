@@ -2,7 +2,7 @@
 
 <p align="center">
 Projeto desenvolvido por alunos do SENAI Jaú. <br/>
-<a href="https://google.com">Clique aqui e saiba mais.</a>
+<a href="[Title](<../../../Downloads/saiba mais.txt>)">Clique aqui e saiba mais.</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Projeto desenvolvido por alunos do SENAI Jaú. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Dress To Imprress" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Dress To Impress" width="100%">
 </p>
 
 ## 🚀 Tecnologias
