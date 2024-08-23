@@ -15,6 +15,7 @@ A pandemia da COVID-19 impactou a autoestima e o autocuidado das pessoas, afetan
 ## Autores 
 - [@Vic-Fernandes07](https://github.com/Vic-Fernandes07)
 - [@loreen-s23](https://github.com/loreen-s23)
+- [@s4tarcay](https://github.com/s4tarcay)
 
 
 ## 🔖 Layout
